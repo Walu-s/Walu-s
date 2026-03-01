@@ -7,3 +7,8 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 # Статистика:
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Walum&theme=dark&locale=ru" alt="GitHub Streak" /></a>
+
+<p align=center>
+  <img
+src=https://wallpapers.com/images/hd/tokyo-ghoul-flower-ges9rpxcaxw1rti5.jpg <br>
+<p align=center> Благодарю за просмотр <p align=center> 😊
